@@ -1,0 +1,41 @@
+[33mcommit 79b45865e53d838c3684059acbbff7375fe73ae3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Rustem <rustemsh@mail.ru>
+Date:   Fri Oct 21 16:18:59 2022 +0500
+
+    thethird edited for 9.5
+
+[33mcommit 2304ed9525d5a914c6118d847be06d0b0a651730[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Rustem <rustemsh@mail.ru>
+Date:   Tue Oct 18 13:52:14 2022 +0500
+
+    the second is edited and the third is added
+
+[33mcommit 08f73b1afbec9dee70bf7e70ea933fd5d49bb5d3[m
+Author: Rustem <rustemsh@mail.ru>
+Date:   Tue Oct 18 13:17:25 2022 +0500
+
+    First file has been removed
+
+[33mcommit a196c0dccf7e4b7b86c5ce57ff37623b1122f387[m
+Author: Rustem <rustemsh@mail.ru>
+Date:   Tue Oct 18 13:10:45 2022 +0500
+
+    Second file is modified
+
+[33mcommit 89d78a483ad26af25ce7bb5fe3ce741d8561d239[m
+Author: Rustem <rustemsh@mail.ru>
+Date:   Tue Oct 18 13:03:26 2022 +0500
+
+    Another file is added
+
+[33mcommit 6ba36d864e5f12781909b02fcc1a088c32ccf519[m
+Author: Rustem <rustemsh@mail.ru>
+Date:   Tue Oct 18 12:55:02 2022 +0500
+
+    A new file is added
+
+[33mcommit 94030d693d159ec041376bbd1c0ce57f9f0da54e[m
+Author: RustemSh1ne <116015434+RustemSh1ne@users.noreply.github.com>
+Date:   Mon Oct 17 20:37:21 2022 +0500
+
+    Initial commit
